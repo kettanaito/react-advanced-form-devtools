@@ -1,0 +1,11 @@
+{
+  "name": "React Advanced Form DevTools",
+  "description": "A Chrome DevTools extension for monitoring and debugging of React Advanced Form",
+  "version": "1.0",
+  "manifest_version": 2,
+  "devtools_page": "devtools.html",
+  "permissions": [
+    "tabs",
+    "<all_urls>"
+  ]
+}
